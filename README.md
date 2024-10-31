@@ -21,7 +21,37 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming (Step 4)
 
-- My favorite app is Pinterest.
+**Favorite apps:
+**
+
+Instagram
+- Changing the background theme on direct messages
+- Viewing and 'liking' stories
+- User-friendly experience
+- Adding music on posts and stories
+
+Pinterest
+- Finding similar photos to a photo uploaded on search tab!
+- The quick adjustments of the algorithm by viewing specific posts
+- The collage feature!
+
+Uber
+- User friendly screens with simple and clear images
+- The map visuals showing where the nearest driver are up-to-date
+- Uber Eats option within the Uber app lessens the hassle and clutter of having to get two separate apps.
+
+**App Idea:
+**
+
+TravelChat: An app dedicated to all aspects of traveling including: finding hotels, flights, and estimates the items the user will need to bring based on the duration of their stay, environment of the destination, and method of traveling.
+
+To use this, I will implement three main tabs to get the user started with their trips/future trips.
+
+
+I would also like to include a way to enable chats much like instagram direct messaging but with invitations, where one can invite their traveling partner to help find hotels and flights for their trip.
+
+
+
 
 
 ## Notes
@@ -30,7 +60,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2024 Dana Pantoja-Campa
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
