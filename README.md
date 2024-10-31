@@ -15,8 +15,14 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-<div style="position: relative; padding-bottom: 214.28571428571428%; height: 0;"><iframe src="https://www.loom.com/embed/cb71759f610c48ccad9d107d8aa816dc?sid=c072e854-3775-4e1f-881f-df2414b4ad4d" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
+<div>
+    <a href="https://www.loom.com/share/cb71759f610c48ccad9d107d8aa816dc">
+      <p>Simulator - iPhone 16 Pro - 31 October 2024 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/cb71759f610c48ccad9d107d8aa816dc">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/cb71759f610c48ccad9d107d8aa816dc-9c48483f9faa0dc7-full-play.gif">
+    </a>
+  </div>
 
 
 ## App Brainstorming (Step 4)
