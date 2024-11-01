@@ -2,7 +2,7 @@
 
 Submitted by: **Dana Pantoja-Campa**
 
-**About Me** is an app that... [TODO] 
+**About Me** is an app that allows the user to view the contents on the screen and click the button below these contenst to change the background color and text color simultaneously. I implemented a way to change the text color as an additional feature!
 
 Time spent: **1** hour spent in total
 
@@ -27,8 +27,7 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 
-**Favorite apps:
-**
+**Favorite apps:**
 
 Instagram
 - Changing the background theme on direct messages
@@ -46,15 +45,11 @@ Uber
 - The map visuals showing where the nearest driver are up-to-date
 - Uber Eats option within the Uber app lessens the hassle and clutter of having to get two separate apps.
 
-**App Idea:
-**
+**App Idea:**
 
 TravelChat: An app dedicated to all aspects of traveling including: finding hotels, flights, and estimates the items the user will need to bring based on the duration of their stay, environment of the destination, and method of traveling.
 
-To use this, I will implement three main tabs to get the user started with their trips/future trips.
-
-
-I would also like to include a way to enable chats much like instagram direct messaging but with invitations, where one can invite their traveling partner to help find hotels and flights for their trip.
+To use this, I will implement four main tabs to get the user started with their trips/future trips. I will have an "Add a trip" feature to allow the user to input their destination and duration to suggest the optimal hotels and flights for this trip. I will also add a "suggested items to bring" tab to allow for more efficient planning for the specific duration and weather. I would also like to include a way to enable chats much like instagram direct messaging but with invitations, where one can invite their traveling partner to help find hotels and flights for their trip. Lastly, I would like to implement a way to view all saved and archived trips with the specific details related to them.
 
 
 
@@ -62,7 +57,7 @@ I would also like to include a way to enable chats much like instagram direct me
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+At first it was challenging to change the text colors while using the same button, but I then discovered that the code was similar to adding action listeners to buttons on Java Swing, which I have experience in.
 
 ## License
 
